@@ -1,0 +1,34 @@
+﻿Сборка начата 12.12.2015 22:16:49.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\viewer.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IGLUS /IExternal\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ClothSim.cpp main.cpp
+         main.cpp
+         ClothSim.cpp
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(75): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(76): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(146): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(170): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(179): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(194): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(202): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(218): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(225): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(237): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(244): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(375): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(387): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(388): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\clothsim.cpp(405): warning C4305: аргумент: усечение из "double" к "float"
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Bin\viewer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:Debug /LIBPATH:External\lib opengl32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"..\Bin\viewer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Bin\viewer.lib" /MACHINE:X86 /SAFESEH Debug\ClothSim.obj
+         Debug\main.obj
+         "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Debug\GLUS.lib"
+         "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Debug\vsgl3.lib"
+     1>ClothSim.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+         viewer.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\..\Bin\viewer.exe
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\viewer.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:24.29

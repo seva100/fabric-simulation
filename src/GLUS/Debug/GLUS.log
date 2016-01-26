@@ -1,0 +1,26 @@
+﻿Сборка начата 11.12.2015 18:18:22.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\GLUS\GLUS.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IExternal\include /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\GLUS.pdb" /Gd /TC /analyze- /errorReport:prompt glus_load.c glus_matrix.c glus_modelview.c glus_shaderprogram.c glus_shape.c glus_vector.c glus_windows.c
+         glus_windows.c
+         glus_vector.c
+         glus_shape.c
+         glus_shaderprogram.c
+         glus_modelview.c
+         glus_matrix.c
+         glus_load.c
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Debug\GLUS.lib" /NOLOGO Debug\glus_load.obj
+         Debug\glus_matrix.obj
+         Debug\glus_modelview.obj
+         Debug\glus_shaderprogram.obj
+         Debug\glus_shape.obj
+         Debug\glus_vector.obj
+         Debug\glus_windows.obj
+         GLUS.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Debug\GLUS.lib
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\GLUS\GLUS.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:10.47

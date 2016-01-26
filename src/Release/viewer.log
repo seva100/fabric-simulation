@@ -1,0 +1,36 @@
+﻿Сборка начата 14.12.2015 22:37:32.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\viewer.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IGLUS /IExternal\include /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ClothSim.cpp
+         ClothSim.cpp
+     1>ClothSim.cpp(75): warning C4305: аргумент: усечение из "double" к "float"
+     1>ClothSim.cpp(76): warning C4305: аргумент: усечение из "double" к "float"
+     1>ClothSim.cpp(146): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(170): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(179): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(194): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(202): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(218): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(225): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(237): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(244): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(375): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(387): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>ClothSim.cpp(388): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>ClothSim.cpp(405): warning C4305: аргумент: усечение из "double" к "float"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Bin\viewer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:Release /LIBPATH:External\lib /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" opengl32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"..\Bin\viewer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Bin\viewer.lib" /MACHINE:X86 /SAFESEH Release\ClothSim.obj
+         Release\main.obj
+         "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Release\GLUS.lib"
+         "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Release\vsgl3.lib"
+         Создание кода
+         20 of 1312 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+         Создание кода завершено
+           0 functions had inline decision re-evaluated but remain unchanged
+         viewer.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\..\Bin\viewer.exe
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\viewer.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:08.18

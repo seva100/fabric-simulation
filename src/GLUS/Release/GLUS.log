@@ -1,0 +1,25 @@
+﻿Сборка начата 14.12.2015 21:45:13.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\GLUS\GLUS.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IExternal\include /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\GLUS.pdb" /Gd /TC /analyze- /errorReport:prompt glus_load.c glus_matrix.c glus_modelview.c glus_shaderprogram.c glus_shape.c glus_vector.c glus_windows.c
+         glus_load.c
+         glus_matrix.c
+         glus_modelview.c
+         glus_shaderprogram.c
+         glus_shape.c
+         glus_vector.c
+         glus_windows.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Release\GLUS.lib" /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" /NOLOGO /LTCG Release\glus_load.obj
+         Release\glus_matrix.obj
+         Release\glus_modelview.obj
+         Release\glus_shaderprogram.obj
+         Release\glus_shape.obj
+         Release\glus_vector.obj
+         Release\glus_windows.obj
+         GLUS.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Release\GLUS.lib
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\GLUS\GLUS.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:27.18

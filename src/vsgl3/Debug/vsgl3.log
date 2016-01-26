@@ -1,0 +1,24 @@
+﻿Сборка начата 11.12.2015 18:21:26.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\vsgl3\vsgl3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\GLUS /I..\External\include /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vsgl3.pdb" /Gd /TP /analyze- /errorReport:prompt glHelper.cpp glHelperDevil.cpp glHelperMesh.cpp glHelperShaderProgram.cpp glHelperTexture.cpp
+         glHelperTexture.cpp
+         glHelperShaderProgram.cpp
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\vsgl3\glhelpershaderprogram.cpp(192): warning C4244: аргумент: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+     1>c:\users\maria1967\google диск\вмк мгу, 5 сем\машграф\task4\task4_cloth_2\src\vsgl3\glhelpershaderprogram.cpp(255): warning C4244: аргумент: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+         glHelperMesh.cpp
+         glHelperDevil.cpp
+         glHelper.cpp
+         Создание кода...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Debug\vsgl3.lib" /NOLOGO Debug\glHelper.obj
+         Debug\glHelperDevil.obj
+         Debug\glHelperMesh.obj
+         Debug\glHelperShaderProgram.obj
+         Debug\glHelperTexture.obj
+         vsgl3.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Debug\vsgl3.lib
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\vsgl3\vsgl3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:23.34

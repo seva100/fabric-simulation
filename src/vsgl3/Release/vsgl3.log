@@ -1,0 +1,23 @@
+﻿Сборка начата 14.12.2015 21:45:13.
+     1>Проект "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\vsgl3\vsgl3.vcxproj" в узле 3 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\GLUS /I..\External\include /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vsgl3.pdb" /Gd /TP /analyze- /errorReport:prompt glHelper.cpp glHelperDevil.cpp glHelperMesh.cpp glHelperShaderProgram.cpp glHelperTexture.cpp
+         glHelper.cpp
+         glHelperDevil.cpp
+         glHelperMesh.cpp
+         glHelperShaderProgram.cpp
+     1>glHelperShaderProgram.cpp(192): warning C4244: аргумент: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+     1>glHelperShaderProgram.cpp(255): warning C4244: аргумент: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+         glHelperTexture.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Release\vsgl3.lib" /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" /NOLOGO /LTCG Release\glHelper.obj
+         Release\glHelperDevil.obj
+         Release\glHelperMesh.obj
+         Release\glHelperShaderProgram.obj
+         Release\glHelperTexture.obj
+         vsgl3.vcxproj -> C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\Release\vsgl3.lib
+     1>Сборка проекта "C:\Users\Maria1967\Google Диск\ВМК МГУ, 5 сем\Машграф\task4\task4_cloth_2\src\vsgl3\vsgl3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:30.85
