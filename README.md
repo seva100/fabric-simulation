@@ -4,6 +4,8 @@ This project is a realistic simulation of fabric with texture completed as a par
 
 
 
+Some parts of the program are the part of project skeleton and were written by course tutors (e.g. Vladimir Frolov).
+
 ## How to compile and execute
 
 To compile the program, open it from Microsoft Visual Studio. (code makes use of OpenGL and can be rewritten to work in Linux environment). **src/** folder contains Microsoft Visual Studio 2015 project file.
