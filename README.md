@@ -2,7 +2,8 @@
 
 This project is a realistic simulation of fabric with texture completed as a part of MSU Programming course. Language: C++, compiler: Microsoft Visual C++.
 
-
+<img src="example pics/Clipboard15.jpg" style="width: 50px"/>
+<img src="example pics/Clipboard16.jpg" style="width: 50px"/>
 
 Some parts of the program are the part of project skeleton and were written by course tutors (e.g. Vladimir Frolov).
 
